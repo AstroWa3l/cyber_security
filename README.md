@@ -1,2 +1,2 @@
 # cyber_security
-Just some projects that I have made to help me in my study of Cyber Security
+These are just some educational projects I have made to help me study various Cyber Security topics.
